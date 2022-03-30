@@ -153,5 +153,5 @@ const Content = () => {
         </MyCollectionContext.Provider>
     )
 };
-
+ 
 export default Content;
